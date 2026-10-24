@@ -11,3 +11,8 @@ body, html {
   overflow: hidden;
   font-family: system-ui, -apple-system, sans-serif;
 }
+
+#lowerbar{
+    height: 50px;
+    color:#8b0000;
+}
